@@ -1,0 +1,43 @@
+body {
+    background-color: grey;
+    width: 99%;
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-left: 0;
+  }
+
+  header {
+    size: 68px;
+    text-decoration-style: solid;
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+
+  table,
+  th,
+  td {
+    
+    border: 1px solid black;
+    border-collapse: collapse;
+  }
+
+  button {
+    background-color: black;
+    color: white;
+    text-decoration: none;
+    width: 100px;
+    margin: 6px;
+    text-align: left;
+  }
+
+  a:link {
+    color: white;
+    background-color: transparent;
+    text-decoration: none;
+  }
+
+  a:visited {
+    color: white;
+    background-color: transparent;
+    text-decoration: none;
+  }
